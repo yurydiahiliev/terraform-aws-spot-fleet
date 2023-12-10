@@ -1,13 +1,13 @@
-### Terraform AWS Spot Fleet Instances creation
+## Terraform AWS Spot Fleet Instances creation
 
-## Download Terraform
+### Download Terraform
 
 shell
 ```
  $ brew install terraform
 ```
 
-## To create AWS Spot Fleet Request
+### To create AWS Spot Fleet Request
 
 
 shell
@@ -17,7 +17,7 @@ shell
  $ terraform apply -auto-approve
 ```
 
-##  Clean up
+###  Clean up
 
 shell
 ```
